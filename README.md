@@ -20,4 +20,4 @@ As the lead developer and designer of this project, I managed the entire lifecyc
 - Clean, professional user interface to build customer trust.
 
 ---
-*Developed as a freelance project in 2025-2026.*
+*Developed as a freelance project in 2025.*
